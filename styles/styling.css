@@ -85,6 +85,14 @@ p {
   width: 100%;
   border-radius: 10px;
 }
+
+.project-image {
+  width: 140%;
+  border-radius: 10px;
+
+  box-shadow: 60px #9c97aa;
+  height: 50%;
+}
 .content-container {
   padding: 60px 20px;
 }
